@@ -314,7 +314,7 @@ nav {
 
   .about{
     width: 100%;
-    min-height: 100vh;
+    min-height: 50vh;
     max-width: 70rem;
     margin: auto;
   }
@@ -322,7 +322,7 @@ nav {
   .about .container{
     display: flex;
     align-items: center;
-    min-height: 80vh;
+    min-height: 50vh;
   }
 
   .about-img img{
