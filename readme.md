@@ -1,4 +1,4 @@
-# Shaun's Automotive
+# Caleb's Portfolio
 My portfolio website to show case what I have been working on. As well as a place for people to reach me.
 
 **Link to project:** http://calebdye.netlify.app/
